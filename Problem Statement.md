@@ -11,6 +11,12 @@ We are going to use below methods:
 - Holt's exponential smoothing method
 - Holt Winters' additive method
 - Holt Winters' multiplicative method
+- AR method
+- MA method
+- ARMA 
+- ARIMA
+- SARIMA
+- SARIMAX
 
 And we'll calculate the performance on the basis of below metrices:
 - **RMSE**
